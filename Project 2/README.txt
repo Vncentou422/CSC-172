@@ -1,0 +1,4 @@
+Vincent Ou
+CSC 172
+
+This project had us code an Infix Calculator in Java. InfixCalc.java runs the code for this. My InfixCalc first uses a file called ReadFile that I used to help parse through a given txt file. This returns an array with the values line by line. Then it takes each line one by one and converts it to Postfix using the InfixPostfixConverter class, which puts elements in a queue if they are an operand and operators in a stack while comparing their precedence order. After converting the input to postfix, I next use my PostfixCalc class to evaluate the values given by the InfixPostfixConverter. This does this by transversing through a list until it finds an operator and then evaluates the previous two items based on the operator. It then returns the final value in the stack as the answer.

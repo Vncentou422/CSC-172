@@ -1,0 +1,298 @@
+ Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity,
+ 2.413504135353131, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity,
+Infinity, Infinity, Infinity, 0.7406921793136448, Infinity, Infinity, Infinity,
+Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity,
+Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity,
+Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity,
+Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity,
+Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity,
+Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity,
+Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity,
+Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity,
+Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity,
+Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, 1.0614296796500415,
+Infinity, 0.9237429810269672, Infinity, Infinity, Infinity, Infinity, Infinity,
+Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity,
+Infinity, Infinity, Infinity], [Infinity, Infinity, Infinity, Infinity, Infinity
+, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity
+, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity
+, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, 0.9929515865062042
+, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity
+, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity
+, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity
+, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity
+, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity
+, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity
+, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity
+, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity
+, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity
+, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, 0.9237429810269672
+, Infinity, Infinity, 1.5939833076142866, Infinity, Infinity, Infinity, Infinity
+, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity
+, Infinity, Infinity], [Infinity, Infinity, Infinity, Infinity, Infinity, Infini
+ty, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infini
+ty, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infini
+ty, Infinity, Infinity, 1.3223977490706982, Infinity, 0.7337935438688256, 1.1059
+8490222185, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity
+, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity
+, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity
+, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity
+, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity
+, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity
+, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity
+, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity
+, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity
+, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity
+, Infinity, Infinity, Infinity, 2.1503022911744334, Infinity, Infinity, Infinity
+, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity
+, Infinity, Infinity], [Infinity, Infinity, Infinity, Infinity, Infinity, Infini
+ty, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infini
+ty, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infini
+ty, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infini
+ty, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infini
+ty, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infini
+ty, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infini
+ty, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infini
+ty, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infini
+ty, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infini
+ty, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infini
+ty, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infini
+ty, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infini
+ty, Infinity, Infinity, Infinity, Infinity, Infinity, 1.5939833076142866, Infini
+ty, Infinity, Infinity, 1.5308897445083995, 1.5200244463278734, 1.78751626616958
+45, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infini
+ty, Infinity, Infinity], [Infinity, Infinity, Infinity, Infinity, Infinity, Infi
+nity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infi
+nity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infi
+nity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, 2.22
+38377619539222, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infi
+nity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infi
+nity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infi
+nity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infi
+nity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infi
+nity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infi
+nity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infi
+nity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infi
+nity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infi
+nity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, 2.15
+03022911744334, Infinity, Infinity, 1.7280087293260522, Infinity, Infinity, Infi
+nity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infi
+nity, Infinity], [Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, In
+finity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, In
+finity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, In
+finity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, In
+finity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, In
+finity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, In
+finity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, In
+finity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, In
+finity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, In
+finity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, In
+finity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, In
+finity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, In
+finity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, In
+finity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, 1.5308897445
+083995, 1.7280087293260522, Infinity, 0.482409711170203, Infinity, Infinity, Inf
+inity, 2.8731107334414063, Infinity, Infinity, Infinity, Infinity, Infinity, Inf
+inity, Infinity], [Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, I
+nfinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, I
+nfinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, I
+nfinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, I
+nfinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, I
+nfinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, I
+nfinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, I
+nfinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, I
+nfinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, I
+nfinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, I
+nfinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, I
+nfinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, I
+nfinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, I
+nfinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, 1.520024446
+3278734, Infinity, 0.482409711170203, Infinity, Infinity, 0.4838401128044409, In
+finity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, In
+finity], [Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity,
+Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity,
+Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity,
+Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity,
+Infinity, 0.5597595739172252, Infinity, Infinity, Infinity, Infinity, Infinity,
+Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity,
+Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity,
+Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity,
+Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity,
+Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity,
+Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity,
+Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity,
+Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity,
+Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, 1.78751626
+61695845, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity,
+Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity], [Infinity
+, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity
+, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity
+, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity
+, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity
+, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity
+, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity
+, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity
+, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity
+, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity
+, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity
+, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity
+, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity
+, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity
+, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, 0.483840
+1128044409, Infinity, Infinity, 2.1697938589411696, Infinity, Infinity, Infinity
+, Infinity, Infinity, Infinity, Infinity, Infinity], [Infinity, Infinity, Infini
+ty, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infini
+ty, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infini
+ty, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infini
+ty, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, 0.22306730354403
+415, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infin
+ity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infin
+ity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infin
+ity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infin
+ity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infin
+ity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infin
+ity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infin
+ity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infin
+ity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infin
+ity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infin
+ity, 2.1697938589411696, Infinity, 1.182977615756513, Infinity, Infinity, Infini
+ty, Infinity, Infinity, Infinity, Infinity], [Infinity, Infinity, Infinity, Infi
+nity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infi
+nity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infi
+nity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infi
+nity, Infinity, Infinity, 1.1286522405193098, 0.9724536612003303, Infinity, Infi
+nity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infi
+nity, 0.5273183472135904, Infinity, Infinity, Infinity, Infinity, Infinity, Infi
+nity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infi
+nity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infi
+nity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infi
+nity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infi
+nity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infi
+nity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infi
+nity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infi
+nity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, 2.873110733441
+4063, Infinity, Infinity, Infinity, 1.182977615756513, Infinity, Infinity, Infin
+ity, Infinity, Infinity, Infinity, Infinity, Infinity], [Infinity, Infinity, Inf
+inity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Inf
+inity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Inf
+inity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Inf
+inity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Inf
+inity, 0.4188367645304525, Infinity, Infinity, Infinity, Infinity, Infinity, Inf
+inity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Inf
+inity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Inf
+inity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Inf
+inity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Inf
+inity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Inf
+inity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Inf
+inity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Inf
+inity, Infinity, Infinity, Infinity, 2.87482513659888, Infinity, Infinity, Infin
+ity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infin
+ity, Infinity, Infinity, Infinity, Infinity, Infinity, 0.6282417711262139, Infin
+ity, Infinity, Infinity, Infinity, Infinity], [Infinity, Infinity, Infinity, Inf
+inity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Inf
+inity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Inf
+inity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Inf
+inity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Inf
+inity, 1.705729676033663, Infinity, Infinity, Infinity, Infinity, Infinity, Infi
+nity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infi
+nity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infi
+nity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infi
+nity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infi
+nity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infi
+nity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infi
+nity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infi
+nity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infi
+nity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infi
+nity, Infinity, Infinity, 0.6282417711262139, Infinity, 1.6265274514439056, Infi
+nity, Infinity, Infinity, Infinity], [Infinity, Infinity, Infinity, Infinity, In
+finity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, In
+finity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, In
+finity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, In
+finity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, 1.
+6519080236199666, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, In
+finity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, In
+finity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, In
+finity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, In
+finity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, In
+finity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, In
+finity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, In
+finity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, In
+finity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, In
+finity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, In
+finity, Infinity, Infinity, 1.6265274514439056, Infinity, 3.123664900382756, 3.2
+138743257284292, Infinity, Infinity], [Infinity, Infinity, Infinity, Infinity, I
+nfinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, I
+nfinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, I
+nfinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, I
+nfinity, Infinity, Infinity, Infinity, Infinity, Infinity, 1.585017642118119, In
+finity, Infinity, 5.947177955918845, Infinity, Infinity, Infinity, Infinity, Inf
+inity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Inf
+inity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Inf
+inity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Inf
+inity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Inf
+inity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Inf
+inity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Inf
+inity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Inf
+inity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Inf
+inity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Inf
+inity, Infinity, Infinity, Infinity, Infinity, 3.123664900382756, Infinity, Infi
+nity, Infinity, Infinity], [Infinity, Infinity, Infinity, Infinity, Infinity, In
+finity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, In
+finity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, In
+finity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, In
+finity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, In
+finity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, In
+finity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, In
+finity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, In
+finity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, In
+finity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, In
+finity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, In
+finity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, In
+finity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, In
+finity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, In
+finity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, In
+finity, Infinity, 3.2138743257284292, Infinity, Infinity, 2.7153023050417646, In
+finity], [Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity,
+Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity,
+Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity,
+Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity,
+Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, 2.5308600206437966,
+Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity,
+Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity,
+Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity,
+Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity,
+Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity,
+Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity,
+Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity,
+Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity,
+Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity,
+Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity,
+Infinity, Infinity, Infinity, 2.7153023050417646, Infinity, 1.7317859352050278],
+ [Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity
+, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity
+, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity
+, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity
+, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, 0.6365723456722235
+, 1.0268153518254812, 0.5973286398733912, 1.5796860997244595, Infinity, Infinity
+, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity
+, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity
+, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity
+, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity
+, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity
+, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity
+, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity
+, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity
+, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity
+, Infinity, Infinity, Infinity, Infinity, Infinity, Infinity, 1.7317859352050278
+, Infinity]]
+0
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+        at java.util.Arrays.copyOf(Unknown Source)
+        at java.util.Arrays.copyOf(Unknown Source)
+        at java.util.ArrayList.grow(Unknown Source)
+        at java.util.ArrayList.ensureExplicitCapacity(Unknown Source)
+        at java.util.ArrayList.ensureCapacityInternal(Unknown Source)
+        at java.util.ArrayList.add(Unknown Source)
+        at Graph.shortestPathto(Graph.java:119)
+        at Graph.shortestPathto(Graph.java:83)
+        at Driver.main(Driver.java:47)

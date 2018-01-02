@@ -1,0 +1,85 @@
+Driver.java OUTPUT
+
+WELCOME TO MASTERMIND
+PRESS ENTER TO PLAY
+
+Please enter number of colors 1-12:5
+Please enter number of positions 1-12:3
+Please enter in the order of colors for the code, choosing from the list of colors given here:
+RED ORANGE YELLOW GREEN BLUE
+
+Please enter color #1:RED
+
+Please enter color #2:GREEN
+
+Please enter color #3:BLUE
+
+RED GREEN BLUE
+is this correct? enter Y or N:Y
+Code is RED GREEN BLUE
+Guess: RED RED RED
+Enter number of right colors but in wrong position:
+0
+Enter number of right colors in the right position:
+1
+Guess: RED RED ORANGE
+Enter number of right colors but in wrong position:
+0
+Enter number of right colors in the right position:
+1
+Guess: RED RED YELLOW
+Enter number of right colors but in wrong position:
+0
+Enter number of right colors in the right position:
+1
+Guess: RED RED GREEN
+Enter number of right colors but in wrong position:
+1
+Enter number of right colors in the right position:
+1
+Guess: RED ORANGE RED
+Enter number of right colors but in wrong position:
+0
+Enter number of right colors in the right position:
+1
+Guess: RED ORANGE ORANGE
+Enter number of right colors but in wrong position:
+0
+Enter number of right colors in the right position:
+1
+Guess: RED ORANGE YELLOW
+Enter number of right colors but in wrong position:
+0
+Enter number of right colors in the right position:
+1
+Guess: RED ORANGE BLUE
+Enter number of right colors but in wrong position:
+0
+Enter number of right colors in the right position:
+2
+Guess: RED YELLOW RED
+Enter number of right colors but in wrong position:
+0
+Enter number of right colors in the right position:
+1
+Guess: RED YELLOW YELLOW
+Enter number of right colors but in wrong position:
+0
+Enter number of right colors in the right position:
+1
+Guess: RED YELLOW BLUE
+Enter number of right colors but in wrong position:
+0
+Enter number of right colors in the right position:
+2
+Guess: RED GREEN RED
+Enter number of right colors but in wrong position:
+0
+Enter number of right colors in the right position:
+2
+Guess: RED GREEN BLUE
+Enter number of right colors but in wrong position:
+0
+Enter number of right colors in the right position:
+3
+Play another? Enter Y or N: N

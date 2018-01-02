@@ -1,0 +1,17 @@
+E:\CSC 172\Projects\Project 3 Point Location>java Locator input.txt
+Not separated by a line
+Not separated by a line
+6
+2.6666666666666665
+
+E:\CSC 172\Projects\Project 3 Point Location>java Locator input2.txt
+Not separated by a line
+Not separated by a line
+3
+2.3333333333333335
+
+E:\CSC 172\Projects\Project 3 Point Location>java Locator input3.txt
+0.0,0.52 1.0,0.41
+0.0,0.52 1.0,0.41
+6
+2.6666666666666665

@@ -1,0 +1,4 @@
+Vincent Ou
+vou@u.rochester.edu
+
+Locator.java runs the files for the Point Location problem. Locator derives most of its functionality from AltBinSearchTree which is an alteration on the Binary Search Tree concept. Instead of adding with regards to the element being less than or greater than the parent, it adds based on whether the line is counterclockwise or clockwise from the line. In order to tell if two points are separated by a line or not, it checks if the parents of the two points are the same, if they are not it finds the next similar parent, which is the line that separates them. AltBinSearch also measure the number of nodes and the average path length, which steadily increases as the number of nodes increases.
